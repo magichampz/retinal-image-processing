@@ -3,7 +3,9 @@
 Some functions for image pre-processing before training a deep learning model with these images.
 
 ### Function 1
-To distinguish whether an image is of high enough quality/resolution to be used for training. Two steps were invovled. 
+To distinguish whether an image is of high enough quality/resolution to be used for training. High quality and low quality images can be found in the sample images folder above
+
+Two steps were invovled. 
 1. Cheking the brightness of the image, as all images below a certain brightness, as was determined, are not suitable
 2. Checking if the optic disc (bright spot in all retinal images) can be identified and isolated, as this is the most important part of the image
 
