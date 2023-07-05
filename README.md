@@ -17,8 +17,9 @@ A mask and morphology function needed to be used to ignore the white text and sh
 An example of an uncropped and cropped image is shown below:
 
 Uncropped:
-![image](https://github.com/magichampz/retinal-image-processing/assets/91732309/efaf817e-fdd6-4164-8cee-879fad86bcd7)
+![4](https://github.com/magichampz/retinal-image-processing/assets/91732309/d96f5116-a524-40e2-93e1-aab76b9d62e3)
 
 
 Cropped:
+
 ![image](https://github.com/magichampz/retinal-image-processing/assets/91732309/1e78cb0f-f03f-4cdf-a5d4-c70255e6e3b4)
